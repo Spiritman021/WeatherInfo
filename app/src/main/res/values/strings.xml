@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Info</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="updated">Updated</string>
+</resources>
